@@ -1,0 +1,35 @@
+<html>
+<head>
+
+<title>  mi emprendimiento </title>
+
+</head>
+
+<body> 
+
+<h1> SKOLOV </h1>
+
+<h1> mi emprendimiento es pequeño pero tu recomendacion y apoyo lo hacen grande <h1>
+ 
+<h1> ofrecemos:Anchetas divertidas para toda ocasión, desayunos sorpresas, cajitas y termos con gomitas, algodones de azucar, carteleras y cajas personalizas, globos LED, globos personalizados </h1>
+
+<h1> "Empacando sonrisas para el alma" <h1> 
+
+
+
+
+
+
+<img src=" foto 1.jpg "/>
+
+
+
+
+
+
+
+
+</body>
+
+</html>
+
